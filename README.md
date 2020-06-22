@@ -1,2 +1,2 @@
 # bedncot
-# added https://hanshir.github.io/bedncot/
+# added https://hanshir.github.io/bedncotaz/
