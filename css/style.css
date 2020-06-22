@@ -1,0 +1,15 @@
+.firsthr{
+    border: 5px solid #af0538;
+    margin: 0px;
+}
+.sechr{
+    border: 5px solid #b33057;
+    margin: 0px;
+}
+.tri{
+    width: 0;
+    height: 0;
+    border: solid 30px;
+    border-color: transparent transparent black transparent;
+
+}
